@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>Tincidunt ac viverra sed nulla &#8211; Rebecca D. Turner</title>
+	<atom:link href="/category/tincidunt-ac-viverra-sed-nulla/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>cutting edge publishing</description>
+	<lastBuildDate>
+	Thu, 07 Jan 2016 18:41:04 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">103936696</site>	<item>
+		<title>Video post type</title>
+		<link>/tincidunt-ac-viverra-sed-nulla/video-post-type/</link>
+				<comments>/tincidunt-ac-viverra-sed-nulla/video-post-type/#respond</comments>
+				<pubDate>Wed, 12 Dec 2012 09:01:49 +0000</pubDate>
+		<dc:creator><![CDATA[grueby]]></dc:creator>
+				<category><![CDATA[Tincidunt ac viverra sed nulla]]></category>
+
+		<guid isPermaLink="false">/uncategorized/video-post-type/</guid>
+				<description><![CDATA[<p>The post <a rel="nofollow" href="/tincidunt-ac-viverra-sed-nulla/video-post-type/">Video post type</a> appeared first on <a rel="nofollow" href="/">Rebecca D. Turner</a>.</p>
+]]></description>
+								<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="/tincidunt-ac-viverra-sed-nulla/video-post-type/">Video post type</a> appeared first on <a rel="nofollow" href="/">Rebecca D. Turner</a>.</p>
+]]></content:encoded>
+							<wfw:commentRss>/tincidunt-ac-viverra-sed-nulla/video-post-type/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">1791</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>Ut pharetra augue nec augue &#8211; Rebecca D. Turner</title>
+	<atom:link href="/category/ut-pharetra-augue-nec-augue/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>cutting edge publishing</description>
+	<lastBuildDate>
+	Thu, 07 Jan 2016 18:41:04 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">103936696</site>	<item>
+		<title>Gallery post format</title>
+		<link>/ut-pharetra-augue-nec-augue/gallery-post-format/</link>
+				<comments>/ut-pharetra-augue-nec-augue/gallery-post-format/#respond</comments>
+				<pubDate>Tue, 22 May 2012 11:50:57 +0000</pubDate>
+		<dc:creator><![CDATA[grueby]]></dc:creator>
+				<category><![CDATA[Ut pharetra augue nec augue]]></category>
+
+		<guid isPermaLink="false">/coding/gallery-post-format/</guid>
+				<description><![CDATA[<p>Aenean convallis aliquet lacus vitae tempus. Suspendisse accumsan nisl sit amet justo auctor id accumsan purus malesuada. Sed gravida, erat ut commodo commodo, metus ante facilisis ante, a vulputate tortor velit gravida tortor. Vivamus ante ante, fringilla vel hendrerit at, interdum id tortor.</p>
+<p>The post <a rel="nofollow" href="/ut-pharetra-augue-nec-augue/gallery-post-format/">Gallery post format</a> appeared first on <a rel="nofollow" href="/">Rebecca D. Turner</a>.</p>
+]]></description>
+								<content:encoded><![CDATA[<p>Aenean convallis aliquet lacus vitae tempus. Suspendisse accumsan nisl sit amet justo auctor id accumsan purus malesuada. Sed gravida, erat ut commodo commodo, metus ante facilisis ante, a vulputate tortor velit gravida tortor. Vivamus ante ante, fringilla vel hendrerit at, interdum id tortor.</p>
+<p>The post <a rel="nofollow" href="/ut-pharetra-augue-nec-augue/gallery-post-format/">Gallery post format</a> appeared first on <a rel="nofollow" href="/">Rebecca D. Turner</a>.</p>
+]]></content:encoded>
+							<wfw:commentRss>/ut-pharetra-augue-nec-augue/gallery-post-format/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">368</post-id>	</item>
+	</channel>
+</rss>

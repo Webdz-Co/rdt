@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>Suspendisse sollicitudin velit sed leo &#8211; Rebecca D. Turner</title>
+	<atom:link href="/category/suspendisse-sollicitudin-velit-sed-leo/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>cutting edge publishing</description>
+	<lastBuildDate>
+	Thu, 07 Jan 2016 18:41:04 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">103936696</site>	<item>
+		<title>YouTube Video</title>
+		<link>/suspendisse-sollicitudin-velit-sed-leo/youtube-video/</link>
+				<comments>/suspendisse-sollicitudin-velit-sed-leo/youtube-video/#respond</comments>
+				<pubDate>Thu, 13 Dec 2012 08:54:11 +0000</pubDate>
+		<dc:creator><![CDATA[grueby]]></dc:creator>
+				<category><![CDATA[Suspendisse sollicitudin velit sed leo]]></category>
+
+		<guid isPermaLink="false">/uncategorized/youtube-video/</guid>
+				<description><![CDATA[<p>The post <a rel="nofollow" href="/suspendisse-sollicitudin-velit-sed-leo/youtube-video/">YouTube Video</a> appeared first on <a rel="nofollow" href="/">Rebecca D. Turner</a>.</p>
+]]></description>
+								<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="/suspendisse-sollicitudin-velit-sed-leo/youtube-video/">YouTube Video</a> appeared first on <a rel="nofollow" href="/">Rebecca D. Turner</a>.</p>
+]]></content:encoded>
+							<wfw:commentRss>/suspendisse-sollicitudin-velit-sed-leo/youtube-video/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">646</post-id>	</item>
+	</channel>
+</rss>
